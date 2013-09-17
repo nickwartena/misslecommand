@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Bullet" itemID="5229aac1-000006ef" linkageExportForAS="true" linkageClassName="BulletArt" lastModified="1378462412">
+  <timeline>
+    <DOMTimeline name="Bullet">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="0" b="-0.319976806640625" c="0.319976806640625" d="0" tx="10.75" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="-31.7"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!203 -1177S2[203 -1174 200 -1171!200 -1171[166 -1123 102 -1084!102 -1084[98 -1082 95 -1079!95 -1079[109 -595 54 -112!54 -112[44 -27 21 56!21 56[12 73 3 62!3 62[0 59 -3 56!-3 56[-26 -27 -36 -112!-36 -112[-91 -595 -77 -1079!-77 -1079[-81
+ -1082 -84 -1084!-84 -1084[-148 -1123 -182 -1171!-182 -1171[-185 -1174 -186 -1178!-186 -1178[-197 -1245 -176 -1313!-176 -1313[-179 -1316 -182 -1319!-182 -1319[-179 -1322 -176 -1325!-176 -1325[-173 -1328 -170 -1331!-170 -1331[-167 -1328
+ -163 -1327!-163 -1327[-105 -1313 -47 -1257!-47 -1257[-44 -1260 -41 -1260!-41 -1260[15 -1256 71 -1264!71 -1264[74 -1267 77 -1269!77 -1269[132 -1312 188 -1331!188 -1331[191 -1328 194 -1325!194 -1325[197 -1322 200 -1319!200 -1319[209 -1248
+ 203 -1177"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

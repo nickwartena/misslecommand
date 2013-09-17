@@ -1,0 +1,1 @@
+﻿package Src{	import flash.display.MovieClip;		public class Targets extends MovieClip 	{		private var art:MovieClip = new TargetArt();		public function Targets() 		{			addChild(art);		}	}	}

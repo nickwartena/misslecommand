@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Missile" itemID="5225d5b4-000002b1" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="MissileArt" lastModified="1378562347">
+  <timeline>
+    <DOMTimeline name="Missile">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#33CC00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!147 -378[147 -376 145 -374!145 -374[121 -340 78 -314!78 -314[74 -311 72 -309!72 -309[83 26 44 359!44 359[37 418 22 476!22 476[15 487 9 480!9 480[7 478 5 476!5 476[-10 418 -19 359!-19 359[-56 26 -47 -309!-47 -309[-49 -311 -52 -314!-52
+ -314[-95 -340 -119 -374!-119 -374[-121 -376 -123 -378!-123 -378[-129 -424 -114 -471!-114 -471[-116 -474 -119 -476!-119 -476[-116 -478 -114 -480!-114 -480[-112 -482 -110 -484!-110 -484[-108 -482 -106 -482!-106 -482[-67 -471 -26 -433!-26
+ -433[-23 -435 -21 -435!-21 -435[18 -433 57 -437!57 -437[59 -439 61 -441!61 -441[98 -471 137 -484!137 -484[139 -482 141 -480!141 -480[143 -478 145 -476!145 -476[152 -426 147 -378"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!680 -980|680 1120!680 1120|-640 1120!-640 1120|-640 -980!-640 -980|680 -980"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

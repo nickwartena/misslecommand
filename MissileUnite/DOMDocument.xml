@@ -1,0 +1,52 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="500" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="74.2651684569298" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="missile.png" itemID="5225d79b-000002bc" sourceExternalFilepath="../MissileUnite/LIBRARY/missile.png" sourceLastImported="1378211450" sourcePlatform="macintosh" externalFileSize="2364" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="missile.png" bitmapDataHRef="M 1 1378211603.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+     </media>
+     <symbols>
+          <Include href="burnMark.xml" itemID="4e527ceb-00000393" lastModified="1314025707"/>
+          <Include href="Bullet.xml" itemID="5229aac1-000006ef" lastModified="1378462412"/>
+          <Include href="ExplosionHitBox.xml" itemID="522b32bf-00000969" lastModified="1378817978"/>
+          <Include href="fireball.xml" itemID="4e3fd7bd-000001e7" lastModified="1378562351"/>
+          <Include href="light.xml" itemID="4e4c085a-00000286" lastModified="1314025485"/>
+          <Include href="Missile.xml" itemID="5225d5b4-000002b1" lastModified="1378562347"/>
+          <Include href="Shoot.xml" itemID="522721f7-00000b0b" lastModified="1378296540"/>
+          <Include href="Target.xml" itemID="522f17ba-00000f75" lastModified="1378824690"/>
+          <Include href="Turret.xml" itemID="5225de3f-00000373" lastModified="1378296329"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="5635" publishTime="1378825970"/>
+          <PublishItem publishSize="5632" publishTime="1378812360"/>
+          <PublishItem publishSize="5633" publishTime="1378654526"/>
+          <PublishItem publishSize="5629" publishTime="1378654493"/>
+          <PublishItem publishSize="5631" publishTime="1378587937"/>
+          <PublishItem publishSize="5626" publishTime="1378587867"/>
+          <PublishItem publishSize="5631" publishTime="1378587831"/>
+          <PublishItem publishSize="5639" publishTime="1378587768"/>
+          <PublishItem publishSize="5641" publishTime="1378587746"/>
+          <PublishItem publishSize="5643" publishTime="1378587626"/>
+          <PublishItem publishSize="5646" publishTime="1378574692"/>
+          <PublishItem publishSize="5645" publishTime="1378572745"/>
+          <PublishItem publishSize="5644" publishTime="1378572727"/>
+          <PublishItem publishSize="5644" publishTime="1378572663"/>
+          <PublishItem publishSize="5644" publishTime="1378572612"/>
+          <PublishItem publishSize="5645" publishTime="1378572554"/>
+          <PublishItem publishSize="5644" publishTime="1378572532"/>
+          <PublishItem publishSize="5643" publishTime="1378572517"/>
+          <PublishItem publishSize="5655" publishTime="1378572499"/>
+          <PublishItem publishSize="5652" publishTime="1378572470"/>
+     </publishHistory>
+</DOMDocument>

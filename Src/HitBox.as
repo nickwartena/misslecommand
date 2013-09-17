@@ -1,0 +1,1 @@
+﻿package Src{	import flash.display.MovieClip;		public class HitBox extends MovieClip  	{		private var art:MovieClip = new hitBoxArt();		public var cursorX:int;		public var cursorY:int;				public function HitBox() 		{			addChild(art);		}	}	}

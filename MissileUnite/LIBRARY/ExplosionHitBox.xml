@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ExplosionHitBox" itemID="522b32bf-00000969" linkageExportForAS="true" linkageClassName="hitBoxArt" lastModified="1378817978">
+  <timeline>
+    <DOMTimeline name="ExplosionHitBox">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.215774536132812" d="0.200241088867188" tx="-0.05" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-0.75"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!420 -430|420 400!420 400|-410 400!-410 400|-410 -430!-410 -430|420 -430"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

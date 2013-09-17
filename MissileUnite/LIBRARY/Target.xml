@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Target" itemID="522f17ba-00000f75" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageClassName="TargetArt" lastModified="1378824690">
+  <timeline>
+    <DOMTimeline name="Target">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.4002685546875" d="0.4002685546875" tx="-2" ty="-2.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4" y="8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1960 -740|1960 1060!1960 1060|-1800 1060!-1800 1060|-1800 -740!-1800 -740|1960 -740"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

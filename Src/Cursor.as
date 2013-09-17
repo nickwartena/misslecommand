@@ -1,0 +1,1 @@
+﻿package Src{	import flash.display.MovieClip;		public class Cursor extends MovieClip	{		private var art:MovieClip = new CursorArt();				public function Cursor() 		{			addChild(art);		}	}	}
